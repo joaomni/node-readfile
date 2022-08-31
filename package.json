@@ -1,0 +1,17 @@
+{
+  "name": "readfiles",
+  "version": "1.0.0",
+  "description": "Callbacks e leitura de arquivos com Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Javascript",
+    "Nodejs",
+    "Callback",
+    "readfile"
+  ],
+  "author": "joaomni",
+  "license": "MIT"
+}
